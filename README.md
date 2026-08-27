@@ -186,8 +186,3 @@ The complete project methodology, analysis, model results, visualizations, and b
 
 ---
 
-## 👤 Author
-
-**Devika Desai**  
-Master of Science in Business Analytics  
-Seattle University
