@@ -123,9 +123,9 @@ tokyo-airbnb-revenue-analysis/
 │
 ├── final_Airbnb_Tokyo_listing_analysis.ipynb
 ├── Airbnb_Tokyo_listing.pptx
+├── Log Conversion Table_Log_Log_Model.xlsx
 ├── README.md
 └── .gitignore
-```
 
 ### Repository Contents
 
